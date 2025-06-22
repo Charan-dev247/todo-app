@@ -205,11 +205,18 @@ button {
   color: #000;
 }
 
-
 .sort select {
   padding: 10px;
   border-radius: 10px;
   border: 1px solid var(--purple);
   background-color: var(--secondaryBackground);
   color: var(--text);
+}
+
+body.light-mode {
+  background-color: #ffffff;
+  color: #000;
+}
+body.light-mode .task-item {
+  background-color: #f0f0f0;
 }
