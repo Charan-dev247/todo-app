@@ -24,10 +24,10 @@ A clean,simple,smooth and responsive Todo List web app built with HTML, CSS, and
 ## Screenshots
 
 ### Desktop View
-[Desktop Screenshot](TodoList_screenshots/desktop.png)
+[Desktop Screenshot](screen_shots/desktop.png)
 
 ### Mobile View
-[Mobile Screenshot](TodoList_screenshots/mobile.png)
+[Mobile Screenshot](screen_shots/mobile.png)
 
 
   
