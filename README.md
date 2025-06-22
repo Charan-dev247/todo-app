@@ -24,7 +24,7 @@ A clean,simple,smooth and responsive Todo List web app built with HTML, CSS, and
 ## Screenshots
 
 ### Desktop View
-[Desktop Screenshot](screen_shots/desktop.png)
+[Desktop Screenshot](screen_shots/desktop.png.png)
 
 ### Mobile View
 [Mobile Screenshot](screen_shots/mobile.png)
