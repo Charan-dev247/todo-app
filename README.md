@@ -1,4 +1,4 @@
-#Todo App 📝
+#Todo web App lication
 
 A clean,simple,smooth and responsive Todo List web app built with HTML, CSS, and JavaScript
 
@@ -20,6 +20,15 @@ A clean,simple,smooth and responsive Todo List web app built with HTML, CSS, and
   -Enjoy a seamless experience on any device.
 * Confetti on 100% task completion
   -Get a fun confetti animation when all tasks are completed!
+
+## Screenshots
+
+### Desktop View
+[Desktop Screenshot](TodoList_screenshots/desktop.png)
+
+### Mobile View
+[Mobile Screenshot](TodoList_screenshots/mobile.png)
+
 
   
 
