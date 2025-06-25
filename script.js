@@ -195,10 +195,10 @@ fire(0.1, {
   startVelocity: 45,
 });
     
+}
+
 function toggleTheme() {
     document.body.classList.toggle('light-mode');
     const icon = document.getElementById('themeToggle');
     icon.textContent = document.body.classList.contains('light-mode') ? "☀️" : "🌙";
-}
-    
 }
